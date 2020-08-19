@@ -2,10 +2,6 @@
 
 Easily create a new newsletter with WooCommerce products, send it to your customers via MailChimp with one click.
 
-## Disclaimer
-
-This plugin is not regularly updated and is not fully functional at this time. There are plans to be completed in the future, it is here for reference only.
-
 ## Installation
 1. Download the plugin from Github to your computer.
 
@@ -20,3 +16,7 @@ WordPress will now upload the plugin file from your computer and install it for 
 ## Instructions
 
  Αfter successfully installing & activating the plugin, click on "Newsletter Generator" at the vertical menu and create your first Newsletter.
+
+## Disclaimer - Work in Progress
+
+This plugin is a work in progress and is not fully functional at this time. There are plans to be completed in the future, it is here for reference only.
